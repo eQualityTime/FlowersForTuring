@@ -6,7 +6,8 @@ layout: home
 ---
 
 
-![2016 image](assets/images/2016.jpg)
+<img src="/assets/images/2016.jpg" alt="Alan Turing's Statue surrounded by flowers"  style="width:50%;display:block;margin-left:auto;margin-right:auto;" />
+
 Alan Turing, the pioneering Computer Scientist and World War II codebreaker, has a statue in Sackville Gardens in Manchester. On 23rd June each year, we surround it with flowers in his memory for his birthday.
 
 This started in 2013, like many things, as a small gesture, and since then has grown to be a modest charity event raising over £5,600 for the amazing charity Special Effect!
