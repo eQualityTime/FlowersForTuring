@@ -1,0 +1,55 @@
+---
+layout:     post
+title:      2015
+tags:       
+---
+
+So this is what Alan Turing’s statue looked for  his birthday:  
+
+<img src="/assets/images/2015/1.png" alt="Alan Turing's Statue surrounded by flowers" width=300px />
+
+
+Our rough total amount of donations came in at £720, which with £68 spent on flowers.  Meaning we have raised about £650 for Special Effect, beating last year’s total by about 50%!
+
+The flowers themselves look considerably better this year – full credit to, as it happens, my mum and dad for buying, fetching, arranging and generally sorting them.
+
+<img src="/assets/images/2015/2.jpg" alt="Bunches of Flowers in the back of a car" width=300px />
+<img src="/assets/images/2015/3.png" alt="Lots of printed out name tags" width=300px />
+
+Each bunch of flowers (I expect there will be more later) was pledged by one of (**where a company or university is listed this should be read as staff/students/alumni/hangers-on from company or university, rather than any endorsement from the place itself – this is very definitely a grassroots thing**):
+
+*   Royal Holloway, Computer Science PhD Students
+*   Royal Holloway, Information Security Group
+*   School of Computer Science The University of Manchester (separate bunch) x 2
+*   Cambridge University, Computer Science
+*   Computer Science at Indiana University, Bloomington
+*   The University of Salford Computing Society
+*   School of Computing at the University of Leeds
+*   Paul Heideman
+*   University of Aberdeen, Computer Science
+*   University of York, Computer Science
+*   Heriot-Watt University, Computer Science
+*   Exeter University, Computer Science
+*   University of New South Wales
+*   Oxford University Press
+*   Someone in Liverpool, UK
+*   The Yeno Family
+*   Someone in Yukon, Canada
+*   University of Hertfordshire
+*   Andy Longhurst
+*   Brighton College Mathematics department
+*   Elizabeth Fritsch
+*   Bill Risbridger
+*   Moscow High School No. 179
+*   the Brin Family
+*   Someone in Seattle, USA
+*   Someone in Manchester
+*   From someone alive because of your work
+*   "With eternal thanks for helping enable us to do what we love everyday and spreading our learning to the ends of the Earth" – The [raywenderlich.com](http://raywenderlich.com) team
+*   Sony Evolution
+*   An Admirer of Turing’s work.
+*   Coventry University.
+*   Bath University (very much so!)
+
+There’s also a nice write-up with some photos [here](https://nishiryu.wordpress.com/2015/06/26/alan-turings-birthday/).
+
