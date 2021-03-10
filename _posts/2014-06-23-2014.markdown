@@ -7,7 +7,7 @@ tags:
 So this is what Alan Turing’s statue looks like right now:
 
 
-<img src="/assets/images/2014/1.jpg" alt="Alan Turing's Statue with lots of flowers" width=300px />
+<img src="{{site.baseurl}}/assets/images/2014/1.jpg" alt="Alan Turing's Statue with lots of flowers" width=300px />
 
 Each bunch of flowers (I expect there will be more later) was pledged by one of (**where a company or university is listed this should be read as staff/students/alumni/hangers-on from company or university, rather than any endorsement from the place itself – this is very definitely a grassroots thing**):
 
@@ -46,7 +46,7 @@ y * CrankyFlamingo (Reddit)
 The state of the PayPal account is:
 
 
-<img src="/assets/images/2014/2.png" alt="PayPal ballance of £518.60" width=400px />
+<img src="{{site.baseurl}}/assets/images/2014/2.png" alt="PayPal ballance of £518.60" width=400px />
 
 ...and I’m very very happy with that. Once the cost of the flowers is taken care off that will be about £450 for [specialEffect](http://www.specialeffect.org.uk/), who thoroughly deserve it. I’ll put up the accounting post shortly (where we put up the recipes for flowers and the receipt from Special Effect so that it’s clear to everyone that all the money went to the right place) but right now I’m basking in the glow of a job well done. Really pleased that everyone came together on this one. Couple of lovely little quotes I’d like to share (both people gave their permission) 
 
@@ -68,7 +68,7 @@ I should thank Amanda McGrath, everyone who ever shared the link, and the wonder
 
 One  more quote from one of the pledges…(pledgers?)
 
-<img src="/assets/images/2014/3.png" alt="Alan Turing's face as a table decoration at a wedding" width=200px />
+<img src="{{site.baseurl}}/assets/images/2014/3.png" alt="Alan Turing's face as a table decoration at a wedding" width=200px />
 
 > I forgot to mention that when I got married two weeks ago (60 years after to the day that Alan passed away), that Alan Turing was the name of our top table – we used the names of British mathematicians, engineers, and scientists as our table names.
 
@@ -78,21 +78,21 @@ For transparency reasons, I'm now doing to dumpertruck lots of accounting inform
 
 So first of all, here is the income for the project:
 
-<img src="/assets/images/2014/4.png" alt="List of paypal transactions" width=100px />
-<img src="/assets/images/2014/5.png" alt="List of paypal transactions" width=100px />
+<img src="{{site.baseurl}}/assets/images/2014/4.png" alt="List of paypal transactions" width=100px />
+<img src="{{site.baseurl}}/assets/images/2014/5.png" alt="List of paypal transactions" width=100px />
 
 Which adds up nicely to:
 
-<img src="/assets/images/2014/6.png" alt="PayPal balance of £532.69" width=400px />
+<img src="{{site.baseurl}}/assets/images/2014/6.png" alt="PayPal balance of £532.69" width=400px />
 
 I now have to take away the cost of the flowers (some from Sainsbury’s and some from the florists called ‘Venus’ nearby, who were good enough to sort flowers for £3 a bunch rather than the £4 we’d budgeted, and who cheerfully took me in their green-fingered stride):
 
 
-<img src="/assets/images/2014/7receipt.jpg" alt="Receipt for flowers" width=300px />
-<img src="/assets/images/2014/8receipt.jpg" alt="Receipt for flowers" width=300px />
+<img src="{{site.baseurl}}/assets/images/2014/7receipt.jpg" alt="Receipt for flowers" width=300px />
+<img src="{{site.baseurl}}/assets/images/2014/8receipt.jpg" alt="Receipt for flowers" width=300px />
 
 Which leaves £436.69 pounds to be donated to Special Effect: 
 
-<img src="/assets/images/2014/9.png" alt="Donation of £436.69 to Special Effect" width=500px />
+<img src="{{site.baseurl}}/assets/images/2014/9.png" alt="Donation of £436.69 to Special Effect" width=500px />
 
 

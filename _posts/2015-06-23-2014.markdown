@@ -6,15 +6,15 @@ tags:
 
 So this is what Alan Turing’s statue looked for  his birthday:  
 
-<img src="/assets/images/2015/1.png" alt="Alan Turing's Statue surrounded by flowers" width=300px />
+<img src="{{site.baseurl}}/assets/images/2015/1.png" alt="Alan Turing's Statue surrounded by flowers" width=300px />
 
 
 Our rough total amount of donations came in at £720, which with £68 spent on flowers.  Meaning we have raised about £650 for Special Effect, beating last year’s total by about 50%!
 
 The flowers themselves look considerably better this year – full credit to, as it happens, my mum and dad for buying, fetching, arranging and generally sorting them.
 
-<img src="/assets/images/2015/2.jpg" alt="Bunches of Flowers in the back of a car" width=300px />
-<img src="/assets/images/2015/3.png" alt="Lots of printed out name tags" width=300px />
+<img src="{{site.baseurl}}/assets/images/2015/2.jpg" alt="Bunches of Flowers in the back of a car" width=300px />
+<img src="{{site.baseurl}}/assets/images/2015/3.png" alt="Lots of printed out name tags" width=300px />
 
 Each bunch of flowers (I expect there will be more later) was pledged by one of (**where a company or university is listed this should be read as staff/students/alumni/hangers-on from company or university, rather than any endorsement from the place itself – this is very definitely a grassroots thing**):
 
