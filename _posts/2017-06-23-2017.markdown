@@ -1,0 +1,17 @@
+---
+layout:     post
+title:      2017
+tags:       
+---
+
+So this is what Alan Turing’s statue looked for  his birthday:
+
+<img src="{{site.baseurl}}/assets/images/2017/1.jpg" alt="Alan Turing's Statue with lots of flowers" width=300px />
+
+
+Which is pretty incredible!
+
+Our rough total amount of donations came in at £1005.05.
+
+After expenses (Flowers and PayPal Fees), the total donation to Special Effect is £975.72
+
