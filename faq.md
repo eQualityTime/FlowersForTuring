@@ -1,6 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: FAQ
 layout: page
 ---
@@ -22,11 +20,11 @@ In 2013 I put the flowers up the night before. Since 2014 volunteers have put th
 
 # Why doesn’t the money go to equality time?
 
-While eQuality Time is certainly charitable, it’s project-and-grant based at the moment – it’s not really something that people would donate to (rather like a university).
+While [eQuality Time](https://equalitytime.co.uk/) is certainly charitable, it’s project-and-grant based at the moment – it’s not really something that people would donate to (rather like a university).
 
-# Can I pay more?
+# Can I donate more?
 
-Yes, people do (it’s why there are fewer bunches of flowers than you would expect from the size of the money raised) – just send me an email.
+Sure you can! From 2021 we altered the Paypal form to handle larger amounts. 
 
 # Are donations anonymous?
 

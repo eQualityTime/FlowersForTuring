@@ -4,7 +4,7 @@ title:      2013
 tags:       
 ---
 
-![pouring](/assets/images/one.jpg)
+<img src="{{site.baseurl}}/assets/images/2013/one.jpg" alt="Alan Turing's Statue surrounded by flowers" width=300px />
 
 At about Christmas in 2012 I was talking with some CompSci friends from various backgrounds and the subject of [Alan Turing’s statue in Manchester](http://en.wikipedia.org/wiki/Alan_Turing_Memorial) came up. I mentioned that I’d be in Manchester around the time of Turing’s Birthday, and thought it might be nice to put some flowers at the statue as a recognition of a man who was very important to both history, and to the whole area in which we work.
 
@@ -20,18 +20,25 @@ One thing led to another, and when we spoke to friends from other universities m
 
 We had a moment of silence in a reasonable amount of rain, took a couple of photos, and moved on.
 
-![](/assets/images/two.jpg)
+<img src="{{site.baseurl}}/assets/images/2013/two.jpg" alt="Alan Turing's Statue surrounded by flowers" width=300px />
+
 
 (and you can imagine, we are suitably scandalised that we forgot to take some of the prices from one of the bunches of flowers)
 
 ### The next morning
 
-At 4am the next morning, some of us returned to the statue to check that it hadn’t fallen afoul of Manchester’s occasionally boisterious nightlife, and took some more photos. (one of the reasons for this, was that when we first laid the flowers, we found that some person had previously given the statue some marks on the lips, which you can just see on the photos ![](/assets/images/four.jpg)and which we did not have the cleaning products to remove at the time)  
-![](/assets/images/three.jpg)
+At 4am the next morning, some of us returned to the statue to check that it hadn’t fallen afoul of Manchester’s occasionally boisterious nightlife, and took some more photos. (one of the reasons for this, was that when we first laid the flowers, we found that some person had previously given the statue some marks on the lips, which you can just see on the photos 
+
+<img src="{{site.baseurl}}/assets/images/2013/four.jpg" alt="Alan Turing's Statue surrounded by flowers" width=300px />
+
+and which we did not have the cleaning products to remove at the time)  
+
+
+<img src="{{site.baseurl}}/assets/images/2013/three.jpg" alt="Alan Turing's Statue surrounded by flowers" width=300px />
 
 ## Social Media
 
-We were very pleased to find that Manchester’s nightlife had left the statue in peace. At this point we were very happy: a group of us had got together, done a nice thing to show our appreciation and, not incidently rasied a certain amount of money for Bletchley Park to help keep Turing’s history alive.
+We were pleased to find that Manchester’s nightlife had left the statue in peace. At this point we were happy: a group of us had got together, done a nice thing to show our appreciation and, not incidently rasied a certain amount of money for Bletchley Park to help keep Turing’s history alive.
 
 At this point in the story, social media gets involved, and it all goes a bit… viral.
 
