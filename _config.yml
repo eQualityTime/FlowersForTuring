@@ -24,7 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Alan Turing, the pioneering Computer Scientist and World War II codebreaker, has a statue in Sackville Gardens in Manchester. On 23rd June each year, we surround it with flowers in his memory for his birthday.
 baseurl: "/FlowersForTuring" # the subpath of your site, e.g. /blog
 url: https://equalitytime.github.io
-github_username:  equalitytime
 
 # Build settings
 theme: minima

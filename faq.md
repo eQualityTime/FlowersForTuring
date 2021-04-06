@@ -3,6 +3,7 @@ title: FAQ
 layout: page
 ---
 
+<img src="{{site.baseurl}}/assets/images/2018/1.png" alt="Alan Turing's Statue surrounded by flowers" width=300px />
 
 # What happens to the money?
 
@@ -33,3 +34,5 @@ Previously, because we were focused on academics, we listed the department as a 
 # Why?
 
 Because.
+
+<img src="{{site.baseurl}}/assets/images/2014/3.png" alt="Alan Turing's Statue surrounded by flowers" width=300px />
