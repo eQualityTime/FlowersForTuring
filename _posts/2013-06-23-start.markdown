@@ -38,32 +38,27 @@ and which we did not have the cleaning products to remove at the time)
 
 ## Social Media
 
-We were pleased to find that Manchester’s nightlife had left the statue in peace. At this point we were happy: a group of us had got together, done a nice thing to show our appreciation and, not incidently rasied a certain amount of money for Bletchley Park to help keep Turing’s history alive.
+We were pleased to find that Manchester’s nightlife had left the statue in peace. At this point we were happy: a group of us had got together, done a nice thing to show our appreciation and, not incidently raised a certain amount of money for Bletchley Park to help keep Turing’s history alive.
 
 At this point in the story, social media gets involved, and it all goes a bit… viral.
 
-![](/assets/images/twit1.jpg)
+<img src="{{site.baseurl}}/assets/images/2013/twit1.jpg" alt="Alan Turing's Statue surrounded by flowers" width=300px />
 
-A photo of the statue, taken at 8pm that day started ciculating on Twitter… and it quickly racked up thousands of retweets. As it happens, the people of Manchester are an appreciative lot and it  
-appears joined in with gusto – more flowers appeared, balloons, and a  
-party hat. (I honestly am not sure about the hat – we were thinking  
-‘solom reverence’ and the ballons and hat aren’t really in keeping –  
-but on the other hand birthdays should be about celebration…)
+A photo of the statue, taken at 8pm that day started circulating on Twitter… and it quickly racked up thousands of retweets. As it happens, the people of Manchester are an appreciative lot and it  appears joined in with gusto – more flowers appeared, balloons, and a  party hat. (I honestly am not sure about the hat – we were thinking  ‘solemn reverence’ and the balloons and hat are not  really in keeping –  but on the other hand birthdays should be about celebration...)
 
-![](/assets/images/face1.jpg)
+<img src="{{site.baseurl}}/assets/images/2013/face1.jpg" alt="Alan Turing's Statue surrounded by flowers" width=300px />
 
-So yeah, judging by some of the truely lovely things that people wrote on social media (I have no idea how to work out just how many retweets there were in total, but we believe it’s in the region of 10,000), this is something that people like seeing, so if you are a postdoc/PhD member at a CompSci department not represented above and would like to make a similar gesture, then we’d love to hear from you at joseph@cs.rhul.ac.uk.
+So yeah, judging by some of the truly lovely things that people wrote on social media (I have no idea how to work out just how many retweets there were in total, but we believe it’s in the region of 10,000), this is something that people like seeing.
 
-![](/assets/images/twit2.jpg)
+<img src="{{site.baseurl}}/assets/images/2013/twit2.jpg" alt="Alan Turing's Statue surrounded by flowers" width=300px />
 
-![](/assets/images/twit3.jpg)
+<img src="{{site.baseurl}}/assets/images/2013/twit3.jpg" alt="Alan Turing's Statue surrounded by flowers" width=300px />
+
+
+Reddit turned out in force:
+
+<img src="{{site.baseurl}}/assets/images/2013/2013a.jpg" alt="Alan Turing's Statue surrounded by flowers" width=300px />
 
 As an odd postscript… just before Christmas, Turing’s pardon was announced and we ended up with a little more (mildly misplaced) publicity…
 
-![photo (5)](/assets/images/2013b.jpg)
-
-Even that bastion of cynicism Reddit turned out in force:
-
-![photo (5)](/assets/images/2013a.jpg)
-
-
+<img src="{{site.baseurl}}/assets/images/2013/2013b.jpg" alt="Alan Turing's Statue surrounded by flowers" width=300px />

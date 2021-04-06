@@ -6,7 +6,9 @@ tags:
 
 So this is what Alan Turing’s statue looked for  his birthday:
 
-[![2016 turing statue](http://flowersforturing.equalitytime.co.uk/wp-content/uploads/2016/06/2016-turing-statue.jpg)](http://flowersforturing.equalitytime.co.uk/wp-content/uploads/2016/06/2016-turing-statue.jpg)
+<img src="{{site.baseurl}}/assets/images/2016/1.jpg" alt="Alan Turing's Statue surrounded by flowers" width=300px />
+
+
 
 Which is pretty incredible!
 
@@ -16,8 +18,10 @@ Our rough total amount of donations came in at £2050.
 
 In 2015, we raised £650, which was a major achievement at the time…
 
-The flowers themselves look considerably better this year – full credit to, my mum and dad for buying, fetching, arranging and generally sorting them, and also to [David Wayman Flowers](http://davidwayman.co.uk/), who provided the centrepeice.  
-[![Screen Shot 2016-06-30 at 11.59.10](http://flowersforturing.equalitytime.co.uk/wp-content/uploads/2016/06/Screen-Shot-2016-06-30-at-11.59.10.png)](http://flowersforturing.equalitytime.co.uk/wp-content/uploads/2016/06/Screen-Shot-2016-06-30-at-11.59.10.png)
+The flowers themselves look considerably better this year – full credit to, my mum and dad for buying, fetching, arranging and generally sorting them, and also to [David Wayman Flowers](http://davidwayman.co.uk/), who provided the centrepiece.  
+
+<img src="{{site.baseurl}}/assets/images/2016/2.png" alt="104 in flowers" width=300px />
+
 
 Each bunch of flowers was pledged by one of (**where a company or university is listed this should be read as staff/students/alumni/hangers-on from company or university, rather than any endorsement from the place itself – this is very definitely a grassroots thing**):
 
@@ -67,5 +71,16 @@ Starting, of course, with this lovely video:
 > 
 > — Alan Holding (@gentlemanhog) [June 23, 2016](https://twitter.com/gentlemanhog/status/746072617979895812)
 
-[![Screen Shot 2016-06-24 at 07.23.06](http://flowersforturing.equalitytime.co.uk/wp-content/uploads/2016/06/Screen-Shot-2016-06-24-at-07.23.06.png)](http://flowersforturing.equalitytime.co.uk/wp-content/uploads/2016/06/Screen-Shot-2016-06-24-at-07.23.06.png) [![Screen Shot 2016-06-24 at 07.22.29](http://flowersforturing.equalitytime.co.uk/wp-content/uploads/2016/06/Screen-Shot-2016-06-24-at-07.22.29.png)](http://flowersforturing.equalitytime.co.uk/wp-content/uploads/2016/06/Screen-Shot-2016-06-24-at-07.22.29.png) [![2016 turing statue](http://flowersforturing.equalitytime.co.uk/wp-content/uploads/2016/06/2016-turing-statue.jpg)](http://flowersforturing.equalitytime.co.uk/wp-content/uploads/2016/06/2016-turing-statue.jpg) [![Screen Shot 2016-06-24 at 07.23.20](http://flowersforturing.equalitytime.co.uk/wp-content/uploads/2016/06/Screen-Shot-2016-06-24-at-07.23.20.png)](http://flowersforturing.equalitytime.co.uk/wp-content/uploads/2016/06/Screen-Shot-2016-06-24-at-07.23.20.png) [![Screen Shot 2016-06-24 at 07.23.33](http://flowersforturing.equalitytime.co.uk/wp-content/uploads/2016/06/Screen-Shot-2016-06-24-at-07.23.33.png)](http://flowersforturing.equalitytime.co.uk/wp-content/uploads/2016/06/Screen-Shot-2016-06-24-at-07.23.33.png) [![Screen Shot 2016-06-24 at 07.24.09](http://flowersforturing.equalitytime.co.uk/wp-content/uploads/2016/06/Screen-Shot-2016-06-24-at-07.24.09.png)](http://flowersforturing.equalitytime.co.uk/wp-content/uploads/2016/06/Screen-Shot-2016-06-24-at-07.24.09.png)
 
+
+<img src="{{site.baseurl}}/assets/images/2016/3.png" alt="Social Media Screenshot" width=300px />
+
+<img src="{{site.baseurl}}/assets/images/2016/4.png" alt="Social Media Screenshot" width=300px />
+
+<img src="{{site.baseurl}}/assets/images/2016/5.png" alt="Social Media Screenshot" width=300px />
+
+<img src="{{site.baseurl}}/assets/images/2016/6.png" alt="Social Media Screenshot" width=300px />
+
+<img src="{{site.baseurl}}/assets/images/2016/7.png" alt="Social Media Screenshot" width=300px />
+
+<img src="{{site.baseurl}}/assets/images/2016/8.png" alt="Social Media Screenshot" width=300px />

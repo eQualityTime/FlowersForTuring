@@ -6,7 +6,8 @@ tags:
 
 So, this is what Alan Turing’s Status looked like on his birthday!
 
-![Screenshot 2019-07-09 at 09.41.05](https://equalitytime.co.uk/wp-content/uploads/2019/07/Screenshot-2019-07-09-at-09.41.05.png)
+<img src="{{site.baseurl}}/assets/images/2019/1.png" alt="Photo of statue surrounded by flowers" width=300px />
+
 
 You did this, once again you came together and did this, and you raised £2,100.15 for Special Effect.
 
@@ -15,17 +16,15 @@ You did this, once again you came together and did this, and you raised £2,100.
 Okay, the accounting part:
 
 *   We were again approached by a private donor, who, at our advice, sent £1,000 to special effect. We remain staggered by this.
-*   The Paypal pool raised £1,076.41.
+*   The PayPal pool raised £1,076.41.
 *   Bath University sent Joe personally £43.74 (they had those payment details from a previous year)
 *   Flowers cost £202.63\. The receipts are below.
 *   This leaves £1,917.52 to transfer to Special Effect, of which £1,000 was already sent by the single large donor above.
-*   The Pay Pal pool was withdrawn to Joe’s Personal Paypal (there doesn’t appear to be another place it can go directly from the pool) and then the relevent amount was donated to Special Effect.  
-    [![Screenshot 2019-07-09 at 09 33 17](https://user-images.githubusercontent.com/4369547/60872593-d823db00-a22c-11e9-9ad2-47bf56f73168.png)](https://user-images.githubusercontent.com/4369547/60872593-d823db00-a22c-11e9-9ad2-47bf56f73168.png)
-
-That should be sufficient that donors can be sure that their money went to the right place (There’s some more details that are relevant for Charity Govenance, but they can be sorted out shortly)
-
-[![flowers for turing receipts page 1 of 2 1](https://user-images.githubusercontent.com/4369547/60872729-220cc100-a22d-11e9-8578-1d9415305911.jpeg)](https://user-images.githubusercontent.com/4369547/60872729-220cc100-a22d-11e9-8578-1d9415305911.jpeg)  
-[![flowers for turing receipts page 1 of 2](https://user-images.githubusercontent.com/4369547/60872730-220cc100-a22d-11e9-90fa-04be3bf5e8cf.jpeg)](https://user-images.githubusercontent.com/4369547/60872730-220cc100-a22d-11e9-90fa-04be3bf5e8cf.jpeg)  
-[![flowers for turing receipts page 2 of 2](https://user-images.githubusercontent.com/4369547/60872732-220cc100-a22d-11e9-820f-9e2d50a6c748.jpeg)](https://user-images.githubusercontent.com/4369547/60872732-220cc100-a22d-11e9-820f-9e2d50a6c748.jpeg)
+*   The Pay Pal pool was withdrawn to Joe’s Personal PayPal (there doesn’t appear to be another place it can go directly from the pool) and then the relevant amount was donated to Special Effect.  
 
 
+<img src="{{site.baseurl}}/assets/images/2019/2.png" alt="Photo of flower receipts" width=300px />
+<img src="{{site.baseurl}}/assets/images/2019/3.jpeg" alt="Photo of flower receipts" width=300px />
+<img src="{{site.baseurl}}/assets/images/2019/4.jpeg" alt="Photo of flower receipts" width=300px />
+
+That should be sufficient that donors can be sure that their money went to the right place (There’s some more details that are relevant for Charity Governance, but they can be sorted out shortly)
