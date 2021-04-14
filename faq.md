@@ -7,17 +7,17 @@ layout: page
 
 # What happens to the money?
 
-People pay by Paypal.  We take out the cost of the flowers (we are fairly cheap with the flowers) and the remainder goes to charity.  In 2013 we donated a small amount of money to the Bletchley Park Trust and in 2014 started supporting Special Effect. After each year, I put up a very boring accountancy post giving all of the details I can.
+People pay by Paypal.  We take out the cost of the flowers (we are fairly cheap with the flowers) and the remainder goes to charity.  In 2013 we donated a small amount of money to the Bletchley Park Trust and in 2014 started supporting Special Effect. After each year, Joe puts up a very boring accountancy post giving all of the details. 
 
 # Do you have all the permissions?
 
-Indeed we do, which is to say that we don’t need any.  In 2014 one charity we wanted to work with said that they wouldn’t be able to help spread word of the event unless we got official permission from the council (although they we’re willing to take the money regardless). So I spend a few hours on the phone to Manchester City Council before eventually reaching the relevant official who asked a few sensible questions and they said we didn’t need permission (he was more concerned with things getting in the way of traffic and crude graffiti, laying flowers isn’t really something the council worry about). When I went back to the charity with this information, they said that they still couldn’t acknowledge any support because “it might get bigger every year”, but they were still happy to take our money.  At this point we gave up and contacted Special Effect who have been wonderful in every way.
+Indeed we do, which is to say that we don’t need any.  In 2014 one charity we wanted to work with said that they wouldn’t be able to help spread word of the event unless we got official permission from the council (although they we’re willing to take the money regardless). So Joe spent a few hours on the phone to Manchester City Council before eventually reaching the relevant official who asked a few sensible questions and they said we didn’t need permission (he was more concerned with things getting in the way of traffic and crude graffiti, laying flowers isn’t really something the council worry about). When we went back to the charity with this information, they said that they still couldn’t acknowledge any support because “it might get bigger every year”, but they were still happy to take our money.  At this point we gave up and contacted Special Effect who have been wonderful in every way.
 
 We tidy up after ourselves and are generally polite and helpful.
 
 # When do they go up?
 
-In 2013 I put the flowers up the night before. Since 2014 volunteers have put them up very early in the morning.
+In 2013 we put the flowers up the night before. Since 2014 volunteers have put them up very early in the morning.
 
 # Why doesn’t the money go to equality time?
 
