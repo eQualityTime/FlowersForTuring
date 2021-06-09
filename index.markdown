@@ -13,6 +13,7 @@ Alan Turing, the pioneering Computer Scientist and World War II codebreaker, has
 * To pledge a bunch of flowers, click [here](donate.html)
 * To find out more about the event, try our [FAQ](faq.html), or one of our [reports](reports.html). 
 
+<img src="{{site.baseurl}}/assets/images/specialeffect.jpg" alt="One of the children helped by special effect">  
 
 <!-- 
 Amounts raised
