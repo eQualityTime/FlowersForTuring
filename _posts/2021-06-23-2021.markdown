@@ -1,0 +1,62 @@
+---
+layout:     post
+title:      2021
+tags:       
+---
+
+So, this is what Alan Turing’s Status looked like on his birthday!
+
+<img src="{{site.baseurl}}/assets/images/2021/1.JPG" alt="Photo of statue surrounded by flowers" width=300px />
+
+
+You did this, once again you came together and did this, and you raised £2,680.61 for Special Effect.
+
+About half the donations were from the UK, the other half were from a range of places including but not limited to: 
+
+* Portland, OR, USA
+* Wolcott, CT, USA
+* Aldie, VA, USA
+* Phoenix, AZ, USA
+* RALEIGH, NC, USA
+* Indianapolis, IN, USA
+* Calgary AB, USA
+* Viken, Norway
+* Surrey, UK
+* Zürich, Germany
+* Reading, UK
+* France
+* Netherlands
+* Canada
+* Austria
+* r/math
+* r/compsci
+* r/cryptocurrency
+
+We had more media than usual this year. Joe spoke to BBC radio Manchester in the morning, and we also turned up on the local evening news. Various other outlets picked it up from there. 
+
+## Accounting!
+Okay, the accounting part:
+
+There were 66 donations through the website for a total of £2,635.56. The mean donation was £39.93, but that is skewed by a couple of larger donations. 
+
+<img src="{{site.baseurl}}/assets/images/2021/paypal.png" alt="Screenshot of Paypal" width=100px />
+
+We also received a cryptocurrency donation of 50 ADA. After various transfer fees this appeared in our bank account as £45.05.  
+<img src="{{site.baseurl}}/assets/images/2021/2.png" alt="Screenshot of bank transfer" width=100px />
+
+There are more screenshots below showing the 'paper' trail for the cryptocurrency. 
+
+
+*   Flowers and mileage expenses were £221.81, which was slightly below the budgeted amount of £231 for 66 donations.\. The receipts are [here]({{site.baseurl}}/assets/images/2021/flowers.pdf)
+*   This leaves £2,458.80 to transfer to Special Effect. 
+*   The Pay Pal account was withdrawn to eQuality Time's Unity Bank account and from there transferred to Special Effect. 
+
+Hopefully donors can feel sure that their money went to the right place. The relevant transactions from the [eQuality Time](https://equalitytime.co.uk/) account are: 
+
+<img src="{{site.baseurl}}/assets/images/2021/bank.png" alt="All relevent transactions in bank" width=200px />
+
+
+
+## Cryptocurrency screenshots
+<img src="{{site.baseurl}}/assets/images/2021/3.jpeg" alt="Screenshot of crypocurrency transaction" width=100px />
+<img src="{{site.baseurl}}/assets/images/2021/4.jpeg" alt="Screenshot of crypocurrency transaction" width=100px />
