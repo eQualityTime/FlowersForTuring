@@ -7,7 +7,7 @@ layout: page
 
 # What happens to the money?
 
-People pay by PayPal.  We take out the cost of the flowers (we are fairly cheap with the flowers) and the remainder goes Special Effect. Each year Joe puts up an [accountancy](reports post) giving all of the details. 
+People pay by PayPal.  We take out the cost of the flowers (we are fairly cheap with the flowers) and the remainder goes Special Effect. Each year Joe puts up an [accountancy post](reports post) giving all of the details. 
 
 # Do you have all the permissions?
 
