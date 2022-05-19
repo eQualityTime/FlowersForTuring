@@ -17,7 +17,7 @@ In 2014 a charity we wanted to support said that they would only be able to help
 
 So Joe spent a few hours on the phone to Manchester City Council before eventually reaching the relevant official who asked a few sensible questions and they said we didn’t need permission (he was more concerned with things getting in the way of traffic and crude graffiti, laying flowers isn’t really something the council worry about).  
 
-We went back to the charity with this information and were told they said that they still acknowledge us because “it might get bigger every year”, but they were still happy to take our money.  At this point we gave up and contacted Special Effect who have been wonderful in every way.
+We went back to the charity with this information and were told they said that they still wouldn't acknowledge us because “it might get bigger every year”, but they were still happy to take our money.  At this point we gave up and contacted Special Effect who have been wonderful in every way.
 
 We tidy up after ourselves and are generally polite and helpful.
 
