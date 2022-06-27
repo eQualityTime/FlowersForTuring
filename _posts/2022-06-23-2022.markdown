@@ -1,0 +1,83 @@
+---
+layout:     post
+title:      2022
+total:    £2,708.60
+year:       2022
+tags:       
+---
+
+So, this is what Alan Turing’s Status looked like on his birthday!
+
+<img src="{{site.baseurl}}/assets/images/{{page.year}}/1.jpeg" alt="Photo of statue surrounded by flowers" width=300px />
+
+
+You did this, once again you came together and did this, and you raised {{page.total}} for Special Effect.
+
+
+About half the donations were from the UK, the other half were from a range of places including but not limited to: 
+
+* Aberdeenshire
+* Arizona, US
+* Austria
+* Buckinghamshire
+* California, US
+* Canada
+* Colorado, US
+* Connecticut, US
+* Essex
+* Georgia, US
+* Glasgow
+* Guildford
+* Harrow
+* Hay-on-Wye
+* Hook
+* Kent
+* Lincoln
+* London
+* Manchester
+* Maryland, US
+* Mexico
+* Missouri, US
+* Netherlands
+* New South Wales, Austrailia
+* New York, US
+* Newcastle
+* North Carolina, US
+* Northamptonshire
+* Norwich
+* Oregon
+* Oxford
+* Pennsylvania, US
+* Preston
+* Somerset
+* South Carolina, US
+* Stoke-on-trent
+* Stokport
+* Surrey
+* Texas, US
+* Utah, US
+* Vancouver, Canada
+* Virginia, US
+* Washington, US
+* Yorkshire
+
+
+
+## Accounting!
+Okay, the accounting part:
+
+There were 57  donations through the website for a total of £2,914.05. The mean donation was £51.12, but that is skewed by a couple of larger donations. 
+
+<img src="{{site.baseurl}}/assets/images/{{page.year}}/paypal.png" alt="Screenshot of Paypal" width=100px />
+
+
+*   Flowers and mileage expenses were £205, which was slightly below the budgeted amount.\. The receipts are [here]({{site.baseurl}}/assets/images/{{page.year}}/flowers.pdf)
+*   This leaves {{page.total}} to transfer to Special Effect. 
+*   The Pay Pal account was withdrawn to eQuality Time's Unity Bank account and from there transferred to Special Effect. 
+
+Hopefully donors can feel sure that their money went to the right place. The relevant transactions from the [eQuality Time](https://equalitytime.co.uk/) account will be added as soon as they are approved by trustees. 
+
+<!-- <img src="{{site.baseurl}}/assets/images/{{page.year}}/bank.png" alt="All relevent transactions in bank" width=200px /> -->
+
+
+
