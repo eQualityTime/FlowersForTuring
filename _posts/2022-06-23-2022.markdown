@@ -77,7 +77,7 @@ There were 57  donations through the website for a total of £2,914.05. The mean
 
 Hopefully donors can feel sure that their money went to the right place. The relevant transactions from the [eQuality Time](https://equalitytime.co.uk/) account will be added as soon as they are approved by trustees. 
 
-<!-- <img src="{{site.baseurl}}/assets/images/{{page.year}}/bank.png" alt="All relevent transactions in bank" width=200px /> -->
+ <img src="{{site.baseurl}}/assets/images/{{page.year}}/final.png" alt="relevent transaction in bank" width=200px /> 
 
 
 
