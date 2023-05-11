@@ -13,7 +13,7 @@ People pay by PayPal.  We take out the cost of the flowers (we are fairly cheap 
 
 Indeed we do and it's a funny story... 
 
-In 2014 a charity we wanted to support said that they would only be able to help spread word of the event if got official permission from the council (although they we’re willing to take the money regardless). 
+In 2014 a charity we wanted to support said that they would only be able to help spread word of the event if got official permission from the council (although they were willing to take the money regardless). 
 
 So Joe spent a few hours on the phone to Manchester City Council before eventually reaching the relevant official who asked a few sensible questions and they said we didn’t need permission (he was more concerned with things getting in the way of traffic and crude graffiti, laying flowers isn’t really something the council worry about).  
 
