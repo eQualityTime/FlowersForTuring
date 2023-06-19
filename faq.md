@@ -23,7 +23,7 @@ We tidy up after ourselves and are generally polite and helpful.
 
 # When do they go up?
 
-Fairly early in the morning on the 23rd.  
+Fairly early in the morning on the 23rd or late on the 22nd depending on which weekday the 23rd falls on. 
 
 # Why doesnâ€™t the money go to eQuality Time?
 
@@ -32,7 +32,20 @@ While [eQuality Time](https://equalitytime.co.uk/) is certainly charitable, itâ€
 
 # Are donations anonymous?
 
-They are, although if you would like a special message put on your bunch, let us know and we'll handle that for you.  
+They are, although if you would like a special message put on your bunch, let us know and we'll handle that for you.  We do extract the list of cities from the donor records so we can write a 'from' on each bunch of flowers. That list looks like this: 
+
+*     from Stoke-on-Trent, Staffordshire, United Kingdom
+*     from Preston, Lancashire, United Kingdom
+*     from Mytholmroyd, West Yorkshire, United Kingdom
+*     from Filey, North Yorkshire, United Kingdom
+*     from Clemson, South Carolina, United States
+*     from Wien, Austria
+*     from Norwich, Norfolk, United Kingdom
+*     from Chichester, United Kingdom
+*     from Durham, North Carolina, United States
+*     from San Francisco, California, United States
+
+We believe is sufficiently anonymous (these are checked by hand by two separate people to make sure that nothing silly happens. 
 
 
 Please click [here](donate) to move on to the donation page. 
