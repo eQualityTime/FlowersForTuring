@@ -1,0 +1,111 @@
+---
+layout:     post
+title:      2023
+total:    £11,607.16 
+year:       2023
+tags:       
+---
+
+So, this is what Alan Turing’s Status looked like on his birthday!
+
+<img src="{{site.baseurl}}/assets/images/{{page.year}}/1.png" alt="Photo of statue surrounded by flowers" width=300px />
+
+
+You did this, once again you came together and did this, and you raised {{page.total}} for Special Effect.
+
+
+We had donations from all of these places! 
+
+*     Stoke-on-Trent, Staffordshire, United Kingdom
+*     Preston, Lancashire, United Kingdom
+*     Mytholmroyd, West Yorkshire, United Kingdom
+*     Filey, North Yorkshire, United Kingdom
+*     Clemson, South Carolina, United States
+*     Wien, Austria
+*     Norwich, Norfolk, United Kingdom
+*     Chichester, United Kingdom
+*     Durham, North Carolina, United States
+*     San Francisco, California, United States
+*     Guildford, Surrey, United Kingdom
+*     Severn, Maryland, United States
+*     Fremont, California, United States
+*     Caterham, Surrey, United Kingdom
+*     Seattle, Washington, United States
+*     Blaxland, New South Wales, Australia
+*     Margate, Kent, United Kingdom
+*     London, United Kingdom
+*     Konstanz, Germany
+*     San Diego, California, United States
+*     Texas, United States
+*     Etobicoke, Ontario, Canada
+*     Augsburg, Germany
+*     Vancouver, British Columbia, Canada
+*     Tilburg, Netherlands
+*     San Diego, California, United States
+*     Tucson, Arizona, United States
+*     Cleveland, Ohio, United States
+*     Skövde, Sweden
+*     East Setauket, New York, United States
+*     Unterägeri, Switzerland
+*     London, United Kingdom
+*     Maineville, Ohio, United States
+*     Firenze, Florence, Italy
+*     Goodyear, Arizona, United States
+*     Manchester, United Kingdom
+*     Alsdorf, Germany
+*     Northridge, California, United States
+*     Fort Lauderdale, Florida, United States
+*     Leeds, United Kingdom
+*     San Jose, California, United States
+*     Springfield, Missouri, United States
+*     San Jose, California, United States
+*     Saint Paul, Minnesota, United States
+*     Wolcott, Connecticut, United States
+*     Iași, Romania
+*     Dallas, Texas, United States
+*     Oslo, Norway
+*     Blacksburg, Virginia, United States
+*     Coevorden, Netherlands
+*     New York, United States
+*     Oslo, Norway
+*     Amsterdam, Netherlands
+*     South Melbourne, Victoria, Australia
+*     Chavagne, France
+*     Woluwé-Saint-Lambert, Belgium
+*     Kuna, Idaho, United States
+*     Granville, New South Wales, Australia
+*     Tewkesbury, Gloucestershire, United Kingdom
+*     Lenexa, Kansas, United States
+*     London, United Kingdom
+*     Antwerpen, Belgium
+*     Lubec, Maine, United States
+*     Brooklyn, New York, United States
+*     Düsseldorf, Germany
+*     London, United Kingdom
+*     Cambridge, Massachusetts, United States
+*     Edinburgh, Scotland, United Kingdom
+*     Romsey, Hampshire, United Kingdom
+*     Edinburgh, Scotland, United Kingdom
+
+
+## Accounting!
+I'm still waiting for receipts from our volunteers on the ground, once I have them we'll do the full accounting post
+
+<!-- 
+Okay, the accounting part:
+
+There were 57  donations through the website for a total of £2,914.05. The mean donation was £51.12, but that is skewed by a couple of larger donations. 
+
+<img src="{{site.baseurl}}/assets/images/{{page.year}}/paypal.png" alt="Screenshot of Paypal" width=100px />
+
+
+*   Flowers and mileage expenses were £205, which was slightly below the budgeted amount.\. The receipts are [here]({{site.baseurl}}/assets/images/{{page.year}}/flowers.pdf)
+*   This leaves {{page.total}} to transfer to Special Effect. 
+*   The Pay Pal account was withdrawn to eQuality Time's Unity Bank account and from there transferred to Special Effect. 
+
+Hopefully donors can feel sure that their money went to the right place. The relevant transactions from the [eQuality Time](https://equalitytime.co.uk/) account will be added as soon as they are approved by trustees. 
+
+ <img src="{{site.baseurl}}/assets/images/{{page.year}}/final.png" alt="relevent transaction in bank" width=200px /> 
+--> 
+
+
