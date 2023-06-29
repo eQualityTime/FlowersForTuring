@@ -93,7 +93,7 @@ Okay, the accounting part:
 There were 108 (compared to 57 last year!)  donations through the website for a total of £2,516.31 or £{{paypal}} after fees. 
 <img src="{{site.baseurl}}/assets/images/{{page.year}}/paypal.png" alt="Screenshot of Paypal" width=100px />
 
-But that's only scratching the surface - we also had two amazing private donations (that we passed directly to Special Effect for Gift Aid reasons) of £3,900 - plus £975 of Gift Aid!
+But that's only scratching the surface - we also had some amazing large donations (that we passed directly to Special Effect for Gift Aid reasons) that come to £7,800 - plus £975 of Gift Aid!
 
 <img src="{{site.baseurl}}/assets/images/{{page.year}}/private.png" alt="4300 pount donation" width=100px />
 and 
