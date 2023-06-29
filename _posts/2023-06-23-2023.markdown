@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      2023
-total:    £11,607.16 
+total:    11607.16 
 year:       2023
 tags:       
 ---
@@ -10,9 +10,7 @@ So, this is what Alan Turing’s Status looked like on his birthday!
 
 <img src="{{site.baseurl}}/assets/images/{{page.year}}/1.png" alt="Photo of statue surrounded by flowers" width=300px />
 
-
-You did this, once again you came together and did this, and you raised {{page.total}} for Special Effect.
-
+You did this, once again you came together and did this, and you raised  £{{page.total}} for Special Effect.
 
 We had donations from all of these places! 
 
@@ -89,23 +87,34 @@ We had donations from all of these places!
 
 
 ## Accounting!
-I'm still waiting for receipts from our volunteers on the ground, once I have them we'll do the full accounting post
-
-<!-- 
+{% assign paypal = 2432.16 %}
 Okay, the accounting part:
 
-There were 57  donations through the website for a total of £2,914.05. The mean donation was £51.12, but that is skewed by a couple of larger donations. 
-
+There were 108 (compared to 57 last year!)  donations through the website for a total of £2,516.31 or £{{paypal}} after fees. 
 <img src="{{site.baseurl}}/assets/images/{{page.year}}/paypal.png" alt="Screenshot of Paypal" width=100px />
 
+But that's only scratching the surface - we also had two amazing private donations (that we passed directly to Special Effect for Gift Aid reasons) of £3,900 - plus £975 of Gift Aid!
 
-*   Flowers and mileage expenses were £205, which was slightly below the budgeted amount.\. The receipts are [here]({{site.baseurl}}/assets/images/{{page.year}}/flowers.pdf)
-*   This leaves {{page.total}} to transfer to Special Effect. 
-*   The Pay Pal account was withdrawn to eQuality Time's Unity Bank account and from there transferred to Special Effect. 
+<img src="{{site.baseurl}}/assets/images/{{page.year}}/private.png" alt="4300 pount donation" width=100px />
+and 
+
+<img src="{{site.baseurl}}/assets/images/{{page.year}}/corporate.png" alt="4300 pount donation" width=100px />
+
+That's a total amount raised of {{page.total}} for Special Effect.
+
+{% assign tot_expenses = 261.22 %}
+{% assign num2 = 100 %}
+{% assign last_transfer = paypal | minus: tot_expenses %}
+
+
+
+*   Flowers and mileage expenses were £{{tot_expenses}}, which was slightly below the budgeted amount.\. The receipts are [here]({{site.baseurl}}/assets/images/{{page.year}}/receipts.zip). 
+*   This leaves  £{{last_transfer}}  to transfer to Special Effect. 
+*   The Pay Pal account was withdrawn to eQuality Time's Unity Bank account and from there will be transferred to Special Effect. 
 
 Hopefully donors can feel sure that their money went to the right place. The relevant transactions from the [eQuality Time](https://equalitytime.co.uk/) account will be added as soon as they are approved by trustees. 
 
- <img src="{{site.baseurl}}/assets/images/{{page.year}}/final.png" alt="relevent transaction in bank" width=200px /> 
+<!-- <img src="{{site.baseurl}}/assets/images/{{page.year}}/final.png" alt="relevent transaction in bank" width=200px /> 
 --> 
 
 
