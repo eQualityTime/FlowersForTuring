@@ -5,10 +5,29 @@
 layout: page
 ---
 
+{% assign donations = 
+  [
+    {"year": "2014", "amount": 436},
+    {"year": "2015", "amount": 650},
+    {"year": "2016", "amount": 2050},
+    {"year": "2017", "amount": 976},
+    {"year": "2018", "amount": 1530},
+    {"year": "2019", "amount": 1918},
+    {"year": "2021", "amount": 2459},
+    {"year": "2022", "amount": 2708},
+    {"year": "2023", "amount": 11607.16}
+    {"year": "2024", "amount": 2880.42}
+  ]
+%}
+
+{% assign total = 0 %}
+{% for entry in donations %}
+  {% assign total = total | plus: entry.amount %}
+{% endfor %}
 
 <img src="{{site.baseurl}}/assets/images/2019/1.jpg" alt="Alan Turing's Statue surrounded by flowers">  
 
-Alan Turing, the pioneering Computer Scientist and World War II codebreaker, has a statue in Sackville Gardens in Manchester. Each year on 23rd June, we honor his birthday by surrounding his statue with flowers. Since 2013, we've raised over £22,000 for the amazing [Special Effect](https://www.youtube.com/watch?v=kpYNG7MivHs&feature=emb_title). Based in the UK, they use video games and technology to enhance the quality of life of people with disabilities.
+Alan Turing, the pioneering Computer Scientist and World War II codebreaker, has a statue in Sackville Gardens in Manchester. Each year on 23rd June, we honor his birthday by surrounding his statue with flowers. Since 2013, we've raised over £{{ total | round: 2 }} for the [Open Voice Factory](https://theopenvoicefactory.org/) and the amazing [Special Effect](https://www.youtube.com/watch?v=kpYNG7MivHs&feature=emb_title). Based in the UK, they use video games and technology to enhance the quality of life of people with disabilities.
 
 By joining us in this heartfelt tradition, you can help celebrate Alan Turing's legacy and support an amazing cause. If you are curious about the event, check out our [FAQ](faq.html), or one of our [reports](reports.html). 
 
