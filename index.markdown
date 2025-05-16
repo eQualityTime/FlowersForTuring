@@ -5,25 +5,13 @@
 layout: page
 ---
 
-{% assign donations = 
-  [
-    {"year": "2014", "amount": 436},
-    {"year": "2015", "amount": 650},
-    {"year": "2016", "amount": 2050},
-    {"year": "2017", "amount": 976},
-    {"year": "2018", "amount": 1530},
-    {"year": "2019", "amount": 1918},
-    {"year": "2021", "amount": 2459},
-    {"year": "2022", "amount": 2708},
-    {"year": "2023", "amount": 11607.16}
-    {"year": "2024", "amount": 2880.42}
-  ]
-%}
 
 {% assign total = 0 %}
-{% for entry in donations %}
+{% for entry in site.data.donations %}
   {% assign total = total | plus: entry.amount %}
 {% endfor %}
+We've raised over £{{ total | round: 2 }} since 2013.
+
 
 <img src="{{site.baseurl}}/assets/images/2019/1.jpg" alt="Alan Turing's Statue surrounded by flowers">  
 
