@@ -18,7 +18,7 @@ Alan Turing, the pioneering Computer Scientist and World War II codebreaker, has
 
 Since 2013 we've raised £{{rounded_total | append: ",000"}} doing this, and we'd like {{ site.time | date: "%Y" }} to be our biggest year ever. Anyone who wants to get involved is welcome. Donations are made up of £3.50 to cover the cost of the flowers, a £13 charity contribution to [Special Effect](https://www.specialeffect.org.uk/), and a £3 charity contribution to the server costs of [The Open Voice Factory](https://theopenvoicefactory.org/) for a total of £18.50.   
 
-Please use the button below to donate (it will allow you to make a bigger donation if you want). 
+<!-- Please use the button below to donate (it will allow you to make a bigger donation if you want). 
 
 Thank you so much! 
 
@@ -27,4 +27,5 @@ Thank you so much!
 <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1" />
 </form>
+--> 
 
