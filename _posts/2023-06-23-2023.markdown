@@ -6,7 +6,7 @@ year:       2023
 tags:       
 ---
 
-So, this is what Alan Turing’s Status looked like on his birthday!
+So, this is what Alan Turing’s statue looked like on his birthday!
 
 <img src="{{site.baseurl}}/assets/images/{{page.year}}/1.png" alt="Photo of statue surrounded by flowers" width=300px />
 
@@ -95,10 +95,10 @@ There were 108 (compared to 57 last year!)  donations through the website for a 
 
 But that's only scratching the surface - we also had some amazing large donations (that we passed directly to Special Effect for Gift Aid reasons) that come to £7,800 - plus £975 of Gift Aid!
 
-<img src="{{site.baseurl}}/assets/images/{{page.year}}/private.png" alt="4300 pount donation" width=100px />
+<img src="{{site.baseurl}}/assets/images/{{page.year}}/private.png" alt="4300 pound donation" width=100px />
 and 
 
-<img src="{{site.baseurl}}/assets/images/{{page.year}}/corporate.png" alt="4300 pount donation" width=100px />
+<img src="{{site.baseurl}}/assets/images/{{page.year}}/corporate.png" alt="4300 pound donation" width=100px />
 
 That's a total amount raised of {{page.total}} for Special Effect.
 
@@ -110,11 +110,10 @@ That's a total amount raised of {{page.total}} for Special Effect.
 
 *   Flowers and mileage expenses were £{{tot_expenses}}, which was slightly below the budgeted amount.\. The receipts are [here]({{site.baseurl}}/assets/images/{{page.year}}/receipts.zip). 
 *   This leaves  £{{last_transfer}}  to transfer to Special Effect. 
-*   The Pay Pal account was withdrawn to eQuality Time's Unity Bank account and from there will be transferred to Special Effect. 
+*   The PayPal account was withdrawn to eQuality Time's Unity Bank account and from there will be transferred to Special Effect. 
 
 Hopefully donors can feel sure that their money went to the right place. The relevant transactions from the [eQuality Time](https://equalitytime.co.uk/) account will be added as soon as they are approved by trustees. 
 
-<!-- <img src="{{site.baseurl}}/assets/images/{{page.year}}/final.png" alt="relevent transaction in bank" width=200px /> 
+<!-- <img src="{{site.baseurl}}/assets/images/{{page.year}}/final.png" alt="relevant transaction in bank" width=200px /> 
 --> 
-
 

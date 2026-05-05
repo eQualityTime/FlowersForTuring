@@ -4,7 +4,7 @@ title:      2021
 tags:       
 ---
 
-So, this is what Alan Turing’s Status looked like on his birthday!
+So, this is what Alan Turing’s statue looked like on his birthday!
 
 <img src="{{site.baseurl}}/assets/images/2021/1.JPG" alt="Photo of statue surrounded by flowers" width=300px />
 
@@ -49,14 +49,14 @@ There are more screenshots below showing the 'paper' trail for the cryptocurrenc
 
 *   Flowers and mileage expenses were £221.81, which was slightly below the budgeted amount of £231 for 66 donations.\. The receipts are [here]({{site.baseurl}}/assets/images/2021/flowers.pdf)
 *   This leaves £2,458.80 to transfer to Special Effect. 
-*   The Pay Pal account was withdrawn to eQuality Time's Unity Bank account and from there transferred to Special Effect. 
+*   The PayPal account was withdrawn to eQuality Time's Unity Bank account and from there transferred to Special Effect. 
 
 Hopefully donors can feel sure that their money went to the right place. The relevant transactions from the [eQuality Time](https://equalitytime.co.uk/) account are: 
 
-<img src="{{site.baseurl}}/assets/images/2021/bank.png" alt="All relevent transactions in bank" width=200px />
+<img src="{{site.baseurl}}/assets/images/2021/bank.png" alt="All relevant transactions in bank" width=200px />
 
 
 
 ## Cryptocurrency screenshots
-<img src="{{site.baseurl}}/assets/images/2021/3.jpeg" alt="Screenshot of crypocurrency transaction" width=100px />
-<img src="{{site.baseurl}}/assets/images/2021/4.jpeg" alt="Screenshot of crypocurrency transaction" width=100px />
+<img src="{{site.baseurl}}/assets/images/2021/3.jpeg" alt="Screenshot of cryptocurrency transaction" width=100px />
+<img src="{{site.baseurl}}/assets/images/2021/4.jpeg" alt="Screenshot of cryptocurrency transaction" width=100px />
