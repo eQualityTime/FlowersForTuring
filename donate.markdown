@@ -16,8 +16,9 @@ layout: page
 
 Alan Turing, the pioneering Computer Scientist and World War II codebreaker, has a statue in Sackville Park in Manchester. On 23rd June each year, we surround it with flowers in his memory. 
 
-Since 2013 we've raised £{{rounded_total | append: ",000"}} doing this, and we'd like {{ site.time | date: "%Y" }} to be our biggest year ever. Anyone who wants to get involved is welcome. Donations are made up of £3.50 to cover the cost of the flowers, and a £16 charity donation. Donations will be split between [Special Effect](https://www.specialeffect.org.uk/)(75%), and the server costs of [The Open Voice Factory](https://theopenvoicefactory.org/)(25%) for a total of £18.50.   
+Since 2013 we've raised £{{rounded_total | append: ",000"}} doing this, and we'd like {{ site.time | date: "%Y" }} to be our biggest year ever. Anyone who wants to get involved is welcome. Donations are made up of £3.50 to cover the cost of the flowers, and a £16 charity donation. Donations are be split between [Special Effect](https://www.specialeffect.org.uk/)(75%), and the server costs of [The Open Voice Factory](https://theopenvoicefactory.org/)(25%) for a total of £18.50.   
 
+<!--
 Please use the button below to donate (it will allow you to make a bigger donation if you want, which will be split per the 75:25 rule above)). 
 
 Thank you so much! 
@@ -28,3 +29,4 @@ Thank you so much!
 <img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1" />
 </form>
  
+--> 
